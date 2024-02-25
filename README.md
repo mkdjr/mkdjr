@@ -1,8 +1,10 @@
-Where you can find me around the web:
+Hey hey! I do research at the U.S. [National Institute of Standards and Technology (NIST)](https://www.nist.gov) ([`@usnistgov`](https://github.com/usnistgov)) on [artificial intelligence in manufacturing](https://www.nist.gov/programs-projects/industrial-artificial-intelligence-management-and-metrology-iaimm).
+
 - [NIST Profile](https://www.nist.gov/people/michael-dawson)
 - [ORCID: 0000-0002-7151-5664](https://orcid.org/0000-0002-7151-5664)
 - [LinkedIn](https://www.linkedin.com/in/mkdjr)
 - [Google Scholar](https://scholar.google.com/citations?user=CkKZeSAAAAAJ)
+- [Web of Science](https://www.webofscience.com/wos/author/record/GQB-2267-2022)
 
 <!--
 **MKDJr/mkdjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
