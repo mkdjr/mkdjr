@@ -1,5 +1,6 @@
 Hey hey! I do research at the U.S. [National Institute of Standards and Technology (NIST)](https://www.nist.gov) ([`@usnistgov`](https://github.com/usnistgov)) on [artificial intelligence in manufacturing](https://www.nist.gov/programs-projects/industrial-artificial-intelligence-management-and-metrology-iaimm).
 
+- [whatnots](https://publish.obsidian.md/whatnots/whatnots), my website, though I plan to move to [Quarto](https://quarto.org) as my site generator.
 - [NIST Profile](https://www.nist.gov/people/michael-dawson)
 - [ORCID: 0000-0002-7151-5664](https://orcid.org/0000-0002-7151-5664)
 - [LinkedIn](https://www.linkedin.com/in/mkdjr)
