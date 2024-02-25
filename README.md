@@ -1,7 +1,7 @@
 Where you can find me around the web:
 - [NIST Profile](https://www.nist.gov/people/michael-dawson)
 - [ORCID: 0000-0002-7151-5664](https://orcid.org/0000-0002-7151-5664)
-- [LinkdIn](https://www.linkedin.com/in/mkdjr)
+- [LinkedIn](https://www.linkedin.com/in/mkdjr)
 - [Google Scholar](https://scholar.google.com/citations?user=CkKZeSAAAAAJ)
 
 <!--
