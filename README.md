@@ -4,6 +4,7 @@ Hey hey! I do research at the U.S. [National Institute of Standards and Technolo
 - [NIST Profile](https://www.nist.gov/people/michael-dawson)
 - [ORCID: 0000-0002-7151-5664](https://orcid.org/0000-0002-7151-5664)
 - [LinkedIn](https://www.linkedin.com/in/mkdjr)
+- [Semantic Scholar](https://www.semanticscholar.org/author/Michael-K.-Dawson-Jr./2184170251)
 - [Google Scholar](https://scholar.google.com/citations?user=CkKZeSAAAAAJ)
 - [Web of Science](https://www.webofscience.com/wos/author/record/GQB-2267-2022)
 
